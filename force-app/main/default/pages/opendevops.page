@@ -1,0 +1,26 @@
+<!--
+  @File Name          : opendevops.page
+  @Description        : 
+  @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
+  @Group              : 
+  @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
+  @Last Modified On   : 22/1/2020, 11:21:59 am
+  @Modification Log   : 
+  Ver       Date            Author      		    Modification
+  1.0    22/1/2020   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
+
+  
+  
+-->
+<apex:page id="pg">
+<apex:form > 
+    <apex:pageBlock id="pb"> 
+
+        <apex:pageBlockButtons >
+            <apex:commandButton value="Google" onclick="OpenPage('google'); return false;"/>
+            <apex:commandButton value="Ankit's Blog" onclick="OpenPage('blog'); return false;"/>
+        </apex:pageBlockButtons>
+
+    </apex:pageBlock>
+</apex:form>
+</apex:page>
