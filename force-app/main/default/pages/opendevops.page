@@ -4,7 +4,7 @@
   @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
   @Group              : 
   @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
-  @Last Modified On   : 7/2/2020, 12:15:11 pm
+  @Last Modified On   : 10/2/2020, 2:06:21 pm
   @Modification Log   : 
   Ver       Date            Author      		    Modification
   1.0    22/1/2020   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
@@ -21,7 +21,7 @@
             <apex:commandButton value="Ankit's Blog" onclick="OpenPage('blog'); return false;"/>
             <apex:commandButton value="Sandeep's  Blog" onclick="OpenPage('blog'); return false;"/>
             <apex:commandButton value="Nir123  Blog" onclick="OpenPage('blog'); return false;"/>
-            <apex:commandButton value="tickona  Blog" onclick="OpenPage('blog'); return false;"/>
+            <apex:commandButton value="ti  Blog" onclick="OpenPage('blog'); return false;"/>
         </apex:pageBlockButtons>
 
     </apex:pageBlock>
