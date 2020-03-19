@@ -4,7 +4,7 @@
   @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
   @Group              : 
   @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
-  @Last Modified On   : 19/3/2020, 11:51:55 am
+  @Last Modified On   : 19/3/2020, 3:50:38 pm
   @Modification Log   : 
   Ver       Date            Author      		    Modification
   1.0    22/1/2020   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
@@ -17,12 +17,8 @@
     <apex:pageBlock id="pb"> 
 
         <apex:pageBlockButtons location="top"  >
-            <apex:commandButton value="sandeeps button " onclick="OpenPage('rune'); return false;"/>
-            <apex:commandButton value="Google" onclick="OpenPage('google'); return false;"/>
-            <apex:commandButton value="Ankit's Blog" onclick="OpenPage('blog'); return false;"/>
-            <apex:commandButton value="Sandeep's  Blog" onclick="OpenPage('blog'); return false;"/>
-            <apex:commandButton value="Nir123  Blog" onclick="OpenPage('blog'); return false;"/>
-            <apex:commandButton value="ti  Blog" onclick="OpenPage('blog'); return false;"/>
+            <apex:commandButton value="Call Swiggy " onclick="OpenPage('swiggy'); return false;"/>
+            <apex:commandButton value="Call Google" onclick="OpenPage('google'); return false;"/>
         </apex:pageBlockButtons>
 
     </apex:pageBlock>
