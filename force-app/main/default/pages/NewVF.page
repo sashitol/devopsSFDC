@@ -1,6 +1,6 @@
-<apex:page id="pg1">
+<apex:page id="pg3">
 <apex:form > 
-    <apex:pageBlock id="pb1"> 
+    <apex:pageBlock id="pb3"> 
 
         <apex:pageBlockButtons location="top"  >
             <apex:commandButton value="test123" onclick="OpenPage('blog'); return false;"/>
