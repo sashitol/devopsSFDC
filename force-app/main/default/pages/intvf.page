@@ -1,0 +1,12 @@
+<apex:page id="pg">
+<apex:form > 
+    <apex:pageBlock id="pb"> 
+
+        <apex:pageBlockButtons location="top"  >
+ 
+            <apex:commandButton value="ti  Blog" onclick="OpenPage('blog'); return false;"/>
+        </apex:pageBlockButtons>
+
+    </apex:pageBlock>
+</apex:form>
+</apex:page>
